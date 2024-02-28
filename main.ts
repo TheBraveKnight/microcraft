@@ -4,3 +4,12 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Tortoise)
 })
+input.onLogoEvent(TouchButtonEvent.Pressed, function () {
+    basic.showLeds(`
+        . # . . .
+        . # . . .
+        . . # # .
+        . # # . .
+        # . . . .
+        `)
+})

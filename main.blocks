@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="WUrJRqcq8X|0;N04A/@{" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="F3aFMznQL!T7lSUjlga3"><field name="i">IconNames.Tortoise</field></block></statement></block><block type="device_button_event" id="ckA^kVz$wCqizURD0#@A" x="-281" y="57"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="|kku8UNar+WNlf`}.VP["><field name="i">IconNames.Meh</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="WUrJRqcq8X|0;N04A/@{" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="F3aFMznQL!T7lSUjlga3"><field name="i">IconNames.Tortoise</field></block></statement></block><block type="device_button_event" id="ckA^kVz$wCqizURD0#@A" x="-281" y="57"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="|kku8UNar+WNlf`}.VP["><field name="i">IconNames.Meh</field></block></statement></block><block type="input_logo_event" id="r9;n*j%{u[4Yt0Gfp!+5" x="-59" y="90"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="`.G=@yky]s|2`RY7vdu+"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . . # # . 
+        . # # . . 
+        # . . . .
+        `</field></block></statement></block></xml>
